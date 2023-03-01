@@ -1,0 +1,24 @@
+{
+  "id": 1,
+  "cliente": {
+    "id": 1,
+    "nombre": "Yuki",
+    "direccion": "Carrera 5 # 5 - 56"
+  },
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Empanadas",
+      "cantidad": 3,
+      "precios": 1200
+    },
+    {
+      "id": 1,
+      "nombre": "Papa",
+      "cantidad": 3,
+      "precios": 1200
+    }
+  ],
+  "observaciones": "No se paga",
+  "total": 7200
+}
